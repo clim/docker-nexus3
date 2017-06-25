@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# TODO: Explore changing base image from centos to alpine
 FROM       centos:centos7
 
 MAINTAINER Sonatype <cloud-ops@sonatype.com>
