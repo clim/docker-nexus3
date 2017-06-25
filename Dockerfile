@@ -81,3 +81,4 @@ WORKDIR ${NEXUS_HOME}
 ENV INSTALL4J_ADD_VM_PARAMS="-Xms1200m -Xmx1200m"
 
 CMD ["bin/nexus", "run"]
+
